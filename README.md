@@ -102,24 +102,6 @@ venv\Scripts\activate           # Windows
 pip install [youtube-transcript-api langchain langchain-community faiss-cpu python-dotenv jupyter]
 ```
 
-### Configuration
-
-Create a `.env` file in the project root:
-
-```env
-[OPENAI_API_KEY]=your_api_key_here
-```
-
-> ⚠️ Never commit your `.env` file or API keys to GitHub.
-
-### Run
-
-```bash
-jupyter notebook chatbot-model.ipynb
-```
-
-Run the cells from top to bottom.
-
 ---
 
 ## 💻 Usage
