@@ -1,6 +1,6 @@
 # 🎥 YouTube Video Chatbot (RAG)
 
-A Retrieval-Augmented Generation (RAG) chatbot that lets you **ask questions about any YouTube video**. It fetches the video's transcript, indexes it in a vector store, and answers your questions using only the video's content. [Edit this line to match your project.]
+A Retrieval-Augmented Generation (RAG) chatbot that lets you **ask questions about any YouTube video**. It fetches the video's transcript, indexes it in a vector store, and answers your questions using only the video's content.
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Jupyter](https://img.shields.io/badge/notebook-Jupyter-orange)
